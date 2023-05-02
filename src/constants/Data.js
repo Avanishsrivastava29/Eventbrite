@@ -1,0 +1,6 @@
+export const NavBar =[
+    {url:'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F497546349%2F1370756806463%2F1%2Foriginal.20230420-202750?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C44%2C1920%2C960&s=0efd7b37c7b217f452c8cfdde7429d22',discrip:' Create a Warm, Nurtured, and Engaged Email List',date:'Tue, May 23, 2023 10:30 PM IST',price:'Free'},
+    {url:'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F497546349%2F1370756806463%2F1%2Foriginal.20230420-202750?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C44%2C1920%2C960&s=0efd7b37c7b217f452c8cfdde7429d22',discrip:' Create a Warm, Nurtured, and Engaged Email List',date:'Tue, May 23, 2023 10:30 PM IST',price:'Free'},
+    {url:'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F497546349%2F1370756806463%2F1%2Foriginal.20230420-202750?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C44%2C1920%2C960&s=0efd7b37c7b217f452c8cfdde7429d22',discrip:' Create a Warm, Nurtured, and Engaged Email List',date:'Tue, May 23, 2023 10:30 PM IST',price:'Free'}
+
+];
