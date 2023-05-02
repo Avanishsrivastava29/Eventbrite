@@ -1,3 +1,4 @@
+Like button is also working properly
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/88231760/235764164-38402102-4669-4dd4-b154-ef4430977330.png">
 <img width="947" alt="2" src="https://user-images.githubusercontent.com/88231760/235764177-350543e4-0485-4b6e-9033-0decba938c51.png">
 <img width="960" alt="3" src="https://user-images.githubusercontent.com/88231760/235764180-579fa944-1976-486d-b397-569dee679920.png">
